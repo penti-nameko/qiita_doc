@@ -1,3 +1,14 @@
+---
+title: ものすごくやさしいdockerの話
+tags:
+  - '#docker #新人プログラマ応援 #インフラ　#開発環境'
+private: false
+updated_at: ''
+id: null
+organization_url_name: null
+slide: false
+ignorePublish: false
+---
 # 1.初めに
 いつぞややったやさしいk8sのdocker版です
 ---
